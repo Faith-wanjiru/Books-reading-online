@@ -1,0 +1,13 @@
+#navbar{
+    margin: 20px;
+    padding: 20px;
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+#hello{
+    display: flex;
+    justify-content: space-between;
+}
+
