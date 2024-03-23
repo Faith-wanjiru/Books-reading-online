@@ -55,7 +55,30 @@
     display: flex;
 }
 
-#allshecarried{
+#shecarried{
     display: flex;
 }
 
+.deal{
+    display: flex;
+    gap: 20px;
+}
+
+#onsale{
+    display: flex;
+}
+
+#viewed{
+    display: flex;
+}
+
+.buttons-wrapper{
+    position: relative;
+}
+
+.outer{
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 40px;
+}
